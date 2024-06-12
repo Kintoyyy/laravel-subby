@@ -27,8 +27,8 @@
         "laravel/framework": "^v9.0|^v10.0|^v11.0"
     },
     "require-dev": {
-        "illuminate/console": "^9.0|^10.0",
-        "illuminate/container": "^9.0|^10.0",
+        "illuminate/console": "^9.0|^10.0|^11.0",
+        "illuminate/container": "^9.0|^10.0|^11.0",
         "phpunit/phpunit": "^9.5.8|^10.0",
         "orchestra/testbench": "^7.0|^8.0"
     },
